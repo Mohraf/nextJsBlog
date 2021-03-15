@@ -1,1 +1,9 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+npm install
+
+To run on development mode:
+    npm run dev
+
+To Build project:
+    npm run build
+
+    npm start
